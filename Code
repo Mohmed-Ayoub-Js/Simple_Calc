@@ -5,7 +5,7 @@ const calc = {
         let num1 = prompt('Enter Nummber ');
         let num2 = prompt('Enter Nummber 2 ');
         let math = prompt('Enter Math (- + * / )');
-        let math1 = '+';
+        let math1 = '+'; 
         let math2 = '-';
         let math3 = '*';
         let math4 = '/';
@@ -22,3 +22,4 @@ const calc = {
     }
 };
 document.write(calc.CalcA());
+//You Can edit code
