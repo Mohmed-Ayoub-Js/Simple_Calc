@@ -21,7 +21,7 @@ const calc = {
         };
     }
 };
-document.write(calc.CalcA());
+console.log(calc.CalcA());
 
 
 
